@@ -1,5 +1,5 @@
 # Sergej Trifonov
-## _Junior JavaScript Developer
+## _Junior JavaScript Developer_
 
 | GitHub    | Codewars      |
 |------------|-------------|
