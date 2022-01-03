@@ -1,14 +1,14 @@
 # Sergej Trifonov
->## _Junior JavaScript Developer_ h2
+## _Junior JavaScript Developer
 
 | GitHub    | Codewars      |
 |------------|-------------|
 | [GitHub](https://outrullers.github.io) | [Codewars](https://www.codewars.com/users/outrullers) |
 
-#### **Education**
+>#### **Education**
 * 2021 RS School Stage 0 
 
-#### **Skills**
+>#### **Skills**
 * Javascript
 * HTML/CSS3
 * React
