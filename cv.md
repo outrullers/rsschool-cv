@@ -1,24 +1,17 @@
-# CV H1
-## h2
+# Sergej Trifonov
+>## _Junior JavaScript Developer_ h2
 ### h3
 #### h4
 ##### h5
-###### h6
 
-*Этот текст будет наклонным (курсив)*
-_Этот текст будет наклонным (курсив)_
-
-**Этот текст будет жирным**
-__Этот текст будет жирным__
-
-[Это ссылка на Хекслет](https://hexlet.io)
-
-> Это мудрая цитата
-> Мудрого человека.
+[GitHub](https://outrullers.github.io)
 
 ![Это опциональный alt-текст](/assets/images/markdown/markdown.png)
 
-* Пункт
-* Еще один пункт
-  * Подпункт
-  * Еще один подпункт
+###### **Education** h6
+* 2021 RS School Stage 0 
+
+###### **Skills** h6
+* Javascript
+* HTML/CSS3
+* React
