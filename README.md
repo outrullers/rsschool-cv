@@ -1,2 +1,2 @@
 # rsschool-cv
-rsschool cv task
+https://outrullers.github.io/rsschool-cv/cv
